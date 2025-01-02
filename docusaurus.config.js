@@ -3,8 +3,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Building Resilience kasten', 
-  tagline: 'Building Resilience in AI Workflows on Kubernetes', 
+  title: 'Building Resilience in AI Workflows on Kubernetes', 
+  // tagline: 'Building Resilience in AI Workflows on Kubernetes', 
   favicon: 'img/favicon.ico', 
 
   // Set the production URL of your site here
