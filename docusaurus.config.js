@@ -49,18 +49,15 @@ const config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'AI Application Resilience',
+      title: 'Kasten Blog',
       logo: {
-        alt: 'AI Resilience Logo',
+        alt: 'Kasten Blog',
         src: 'img/logo.svg',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Docs',
-        },
+       
+          // ...
+        {to: '/blog', label: 'Blog', position: 'left'}, 
         {
           href: 'https://github.com/sarvaniswapnapriya/kasten-blog',
           label: 'GitHub',
@@ -72,21 +69,8 @@ const config = {
     footer: {
       links: [
         {
-          title: 'Docs',
           items: [
-            {
-              label: 'Documentation',
-              to: '/docs/blog', // 
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
+          
           ],
         },
       ],
