@@ -92,4 +92,4 @@ In conclusion, vector databases are essential for managing the complex, high-dim
 
 Kanister offers an effective way to manage and protect vector databases on Kubernetes. Through its structured workflows, Kanister automates backup and recovery processes, helping organizations secure their data and enhance resilience against potential disruption.
 
-By adopting comprehensive backup strategies, businesses can ensure their AI applications remain resilient in an ever-evolving digital landscape. [Explore Kanister] (https://docs.kanister.io/overview.html) for your Kubernetes-based applications and take the first step toward securing your AI applications against data loss.
+By adopting comprehensive backup strategies, businesses can ensure their AI applications remain resilient in an ever-evolving digital landscape. [Explore Kanister](https://docs.kanister.io/overview.html) for your Kubernetes-based applications and take the first step toward securing your AI applications against data loss.
